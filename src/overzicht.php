@@ -125,9 +125,9 @@
             <button class="backup" type="submit" name="backup" value="backup">Backup</button>
         </form>
 
-        <!-- Link to export data to PDF -->
         <div class="pdf">
-            <a href="export_pdf.php" target="_blank">Export to PDF</a>
+        <!-- Link to export data to PDF -->
+        <a href="export_pdf.php" target="_blank">Export to PDF</a>
         </div>
 
     </div>
